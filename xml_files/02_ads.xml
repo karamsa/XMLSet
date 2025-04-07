@@ -1,0 +1,83 @@
+<!DOCTYPE planes_for_sale SYSTEM "planes.dtd">
+<planes_for_sale>
+   <ad>
+      <year> 1977 </year>
+      <make>  </make>
+      <model> Skyhawk </model>
+      <color> Light blue and white </color>
+      <description> New paint, nearly new interior,
+            685 hours SMOH, full IFR King avionics </description>
+      <price> 23,495 </price>
+      <seller phone = "555-222-3333"> Skyway Aircraft </seller>
+         <city> Rapid City, </city>
+         <state> South Dakota </state>
+   </ad>
+   <ad>
+      <year> 1965 </year>
+      <make>  </make>
+      <model> Cherokee </model>
+      <color> Gold </color>
+      <description> 240 hours SMOH, dual NAVCOMs, DME, 
+                new Cleveland brakes, great shape </description>
+      <seller phone = "555-333-2222"  
+              email = "jseller@www.axl.com">
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Missouri </state>
+   </ad>
+   <ad>
+      <year> 1940 </year>
+      <make>  </make>
+      <model> XVT </model>
+      <color> Black </color>
+      <description>  </description>
+      <seller >
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Cocoa </state>
+   </ad>
+   <ad>
+      <year> 1980 </year>
+      <make>  </make>
+      <model> XVT </model>
+      <color> Green </color>
+      <description> </description>
+      <seller >
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Missouri </state>
+   </ad>
+   <ad>
+      <year> 1990 </year>
+      <make>  </make>
+      <model> XVT KK </model>
+      <color> Gold </color>
+      <description>  </description>
+      <seller >
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Missouri </state>
+   </ad>
+   <ad>
+      <year> 1989 </year>
+      <make>  </make>
+      <model> HPO </model>
+      <color> Blue </color>
+      <description> </description>
+      <seller >
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Missouri </state>
+   </ad>
+   <ad>
+      <year> 1965 </year>
+      <make>  </make>
+      <model> NOP </model>
+      <color> red </color>
+      <description>  </description>
+      <seller >
+              John Seller </seller>
+         <city> St. Joseph, </city>
+         <state> Missouri </state>
+   </ad>
+</planes_for_sale>

@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <company>
+        <name>3M Company</name>
+    </company>
+    <company>
+        <name>A.G. Edwards Inc.</name>
+    </company>
+    <company>
+        <name>Abbott Laboratories</name>
+    </company>
+    <company>
+        <name>Abercrombie \& Fitch Co.</name>
+    </company>
+    <company>
+        <name>ABM Industries Incorporated</name>
+    </company>
+    <company>
+        <name>Ace Hardware Corporation</name>
+    </company>
+    <company>
+        <name>ACT Manufacturing Inc.</name>
+    </company>
+    <company>
+        <name>Acterna Corp.</name>
+    </company>
+    <company>
+        <name>Adams Resources & Energy, Inc.</name>
+    </company>
+    <company>
+        <name>ADC Telecommunications, Inc.</name>
+    </company>
+    <company>
+        <name>Adelphia Communications Corporation</name>
+    </company>
+    <company>
+        <name>Administaff, Inc.</name>
+    </company>
+    <company>
+        <name>Adobe Systems Incorporated</name>
+    </company>
+    <company>
+        <name>Adolph Coors Company</name>
+    </company>
+    <company>
+        <name>Advance Auto Parts, Inc.</name>
+    </company>
+    <company>
+        <name>Advanced Micro Devices, Inc.</name>
+    </company>
+    <company>
+        <name>AdvancePCS, Inc.</name>
+    </company>
+    <company>
+        <name>Advantica Restaurant Group, Inc.</name>
+    </company>
+    <company>
+        <name>The AES Corporation</name>
+    </company>
+    <company>
+        <name>Aetna Inc.</name>
+    </company>
+    <company>
+        <name>Affiliated Computer Services, Inc.</name>
+    </company>
+    <company>
+        <name>AFLAC Incorporated</name>
+    </company>
+    <company>
+        <name>AGCO Corporation</name>
+    </company>
+    <company>
+        <name>Agilent Technologies, Inc.</name>
+    </company>
+    <company>
+        <name>Agway Inc.</name>
+    </company>
+    <company>
+        <name>Apartment Investment and Management Company</name>
+    </company>
+    <company>
+        <name>Air Products and Chemicals, Inc.</name>
+    </company>
+    <company>
+        <name>Airborne, Inc.</name>
+    </company>
+    <company>
+        <name>Airgas, Inc.</name>
+    </company>
+    <company>
+        <name>AK Steel Holding Corporation</name>
+    </company>
+    <company>
+        <name>Alaska Air Group, Inc.</name>
+    </company>
+    <company>
+        <name>Alberto-Culver Company</name>
+    </company>
+    <company>
+        <name>Albertson's, Inc.</name>
+    </company>
+    <company>
+        <name>Alcoa Inc.</name>
+    </company>
+    <company>
+        <name>Alleghany Corporation</name>
+    </company>
+    <company>
+        <name>Allegheny Energy, Inc.</name>
+    </company>
+    <company>
+        <name>Allegheny Technologies Incorporated</name>
+    </company>
+    <company>
+        <name>Allergan, Inc.</name>
+    </company>
+    <company>
+        <name>ALLETE, Inc.</name>
+    </company>
+    <company>
+        <name>Alliant Energy Corporation</name>
+    </company>
+    <company>
+        <name>Allied Waste Industries, Inc.</name>
+    </company>
+    <company>
+        <name>Allmerica Financial Corporation</name>
+    </company>
+    <company>
+        <name>The Allstate Corporation</name>
+    </company>
+    <company>
+        <name>ALLTEL Corporation</name>
+    </company>
+    <company>
+        <name>The Alpine Group, Inc.</name>
+    </company>
+    <company>
+        <name>Amazon.com, Inc.</name>
+    </company>
+    <company>
+        <name>AMC Entertainment Inc.</name>
+    </company>
+    <company>
+        <name>American Power Conversion Corporation</name>
+    </company>
+    <company>
+        <name>Amerada Hess Corporation</name>
+    </company>
+    <company>
+        <name>AMERCO</name>
+    </company>
+    <company>
+        <name>Ameren Corporation</name>
+    </company>
+    <company>
+        <name>America West Holdings Corporation</name>
+    </company>
+    <company>
+        <name>American Axle & Manufacturing Holdings, Inc.</name>
+    </company>
+    <company>
+        <name>American Eagle Outfitters, Inc.</name>
+    </company>
+    <company>
+        <name>American Electric Power Company, Inc.</name>
+    </company>
+    <company>
+        <name>American Express Company</name>
+    </company>
+    <company>
+        <name>American Financial Group, Inc.</name>
+    </company>
+    <company>
+        <name>American Greetings Corporation</name>
+    </company>
+    <company>
+        <name>American International Group, Inc.</name>
+    </company>
+    <company>
+        <name>American Standard Companies Inc.</name>
+    </company>
+    <company>
+        <name>American Water Works Company, Inc.</name>
+    </company>
+    <company>
+        <name>AmerisourceBergen Corporation</name>
+    </company>
+    <company>
+        <name>Ames Department Stores, Inc.</name>
+    </company>
+    <company>
+        <name>Amgen Inc.</name>
+    </company>
+    <company>
+        <name>Amkor Technology, Inc.</name>
+    </company>
+    <company>
+        <name>AMR Corporation</name>
+    </company>
+    <company>
+        <name>AmSouth Bancorp.</name>
+    </company>
+    <company>
+        <name>Amtran, Inc.</name>
+    </company>
+    <company>
+        <name>Anadarko Petroleum Corporation</name>
+    </company>
+    <company>
+        <name>Analog Devices, Inc.</name>
+    </company>
+    <company>
+        <name>Anheuser-Busch Companies, Inc.</name>
+    </company>
+    <company>
+        <name>Anixter International Inc.</name>
+    </company>
+    <company>
+        <name>AnnTaylor Inc.</name>
+    </company>
+    <company>
+        <name>Anthem, Inc.</name>
+    </company>
+    <company>
+        <name>AOL Time Warner Inc.</name>
+    </company>
+    <company>
+        <name>Aon Corporation</name>
+    </company>
+    <company>
+        <name>Apache Corporation</name>
+    </company>
+    <company>
+        <name>Apple Computer, Inc.</name>
+    </company>
+    <company>
+        <name>Applera Corporation</name>
+    </company>
+    <company>
+        <name>Applied Industrial Technologies, Inc.</name>
+    </company>
+    <company>
+        <name>Applied Materials, Inc.</name>
+    </company>
+    <company>
+        <name>Aquila, Inc.</name>
+    </company>
+    <company>
+        <name>ARAMARK Corporation</name>
+    </company>
+    <company>
+        <name>Arch Coal, Inc.</name>
+    </company>
+    <company>
+        <name>Archer Daniels Midland Company</name>
+    </company>
+    <company>
+        <name>Arkansas Best Corporation</name>
+    </company>
+    <company>
+        <name>Armstrong Holdings, Inc.</name>
+    </company>
+    <company>
+        <name>Arrow Electronics, Inc.</name>
+    </company>
+    <company>
+        <name>ArvinMeritor, Inc.</name>
+    </company>
+    <company>
+        <name>Ashland Inc.</name>
+    </company>
+    <company>
+        <name>Astoria Financial Corporation</name>
+    </company>
+    <company>
+        <name>AT&T Corp.</name>
+    </company>
+    <company>
+        <name>Atmel Corporation</name>
+    </company>
+    <company>
+        <name>Atmos Energy Corporation</name>
+    </company>
+    <company>
+        <name>Audiovox Corporation</name>
+    </company>
+    <company>
+        <name>Autoliv, Inc.</name>
+    </company>
+    <company>
+        <name>Automatic Data Processing, Inc.</name>
+    </company>
+    <company>
+        <name>AutoNation, Inc.</name>
+    </company>
+    <company>
+        <name>AutoZone, Inc.</name>
+    </company>
+    <company>
+        <name>Avaya Inc.</name>
+    </company>
+    <company>
+        <name>Avery Dennison Corporation</name>
+    </company>
+    <company>
+        <name>Avista Corporation</name>
+    </company>
+    <company>
+        <name>Avnet, Inc.</name>
+    </company>
+    <company>
+        <name>Avon Products, Inc.</name>
+    </company>
+    <company>
+        <name>Baker Hughes Incorporated</name>
+    </company>
+    <company>
+        <name>Ball Corporation</name>
+    </company>
+    <company>
+        <name>Bank of America Corporation</name>
+    </company>
+    <company>
+        <name>The Bank of New York Company, Inc.</name>
+    </company>
+    <company>
+        <name>Bank One Corporation</name>
+    </company>
+    <company>
+        <name>Banknorth Group, Inc.</name>
+    </company>
+    <company>
+        <name>Banta Corporation</name>
+    </company>
+    <company>
+        <name>Barnes & Noble, Inc.</name>
+    </company>
+    <company>
+        <name>Bausch & Lomb Incorporated</name>
+    </company>
+    <company>
+        <name>Baxter International Inc.</name>
+    </company>
+    <company>
+        <name>BB&T Corporation</name>
+    </company>
+    <company>
+        <name>The Bear Stearns Companies Inc.</name>
+    </company>
+    <company>
+        <name>Beazer Homes USA, Inc.</name>
+    </company>
+    <company>
+        <name>Beckman Coulter, Inc.</name>
+    </company>
+    <company>
+        <name>Becton, Dickinson and Company</name>
+    </company>
+    <company>
+        <name>Bed Bath & Beyond Inc.</name>
+    </company>
+    <company>
+        <name>Belk, Inc.</name>
+    </company>
+    <company>
+        <name>Bell Microproducts Inc.</name>
+    </company>
+    <company>
+        <name>BellSouth Corporation</name>
+    </company>
+    <company>
+        <name>Belo Corp.</name>
+    </company>
+    <company>
+        <name>Bemis Company, Inc.</name>
+    </company>
+    <company>
+        <name>Benchmark Electronics, Inc.</name>
+    </company>
+    <company>
+        <name>Berkshire Hathaway Inc.</name>
+    </company>
+    <company>
+        <name>Best Buy Co., Inc.</name>
+    </company>
+    <company>
+        <name>Bethlehem Steel Corporation</name>
+    </company>
+    <company>
+        <name>Beverly Enterprises, Inc.</name>
+    </company>
+    <company>
+        <name>Big Lots, Inc.</name>
+    </company>
+    <company>
+        <name>BJ Services Company</name>
+    </company>
+    <company>
+        <name>BJ's Wholesale Club, Inc.</name>
+    </company>
+    <company>
+        <name>The Black & Decker Corporation</name>
+    </company>
+    <company>
+        <name>Black Hills Corporation</name>
+    </company>
+    <company>
+        <name>BMC Software, Inc.</name>
+    </company>
+    <company>
+        <name>The Boeing Company</name>
+    </company>
+    <company>
+        <name>Boise Cascade Corporation</name>
+    </company>
+    <company>
+        <name>Borders Group, Inc.</name>
+    </company>
+    <company>
+        <name>BorgWarner Inc.</name>
+    </company>
+    <company>
+        <name>Boston Scientific Corporation</name>
+    </company>
+    <company>
+        <name>Bowater Incorporated</name>
+    </company>
+    <company>
+        <name>Briggs & Stratton Corporation</name>
+    </company>
+    <company>
+        <name>Brightpoint, Inc.</name>
+    </company>
+    <company>
+        <name>Brinker International, Inc.</name>
+    </company>
+    <company>
+        <name>Bristol-Myers Squibb Company</name>
+    </company>
+    <company>
+        <name>Broadwing, Inc.</name>
+    </company>
+    <company>
+        <name>Brown Shoe Company, Inc.</name>
+    </company>
+    <company>
+        <name>Brown-Forman Corporation</name>
+    </company>
+    <company>
+        <name>Brunswick Corporation</name>
+    </company>
+    <company>
+        <name>Budget Group, Inc.</name>
+    </company>
+    <company>
+        <name>Burlington Coat Factory Warehouse Corporation</name>
+    </company>
+    <company>
+        <name>Burlington Industries, Inc.</name>
+    </company>
+    <company>
+        <name>Burlington Northern Santa Fe Corporation</name>
+    </company>
+    <company>
+        <name>Burlington Resources Inc.</name>
+    </company>
+    <company>
+        <name>C. H. Robinson Worldwide Inc.</name>
+    </company>
+    <company>
+        <name>Cablevision Systems Corp</name>
+    </company>
+    <company>
+        <name>Cabot Corp</name>
+    </company>
+    <company>
+        <name>Cadence Design Systems, Inc.</name>
+    </company>
+    <company>
+        <name>Calpine Corp.</name>
+    </company>
+    <company>
+        <name>Campbell Soup Co.</name>
+    </company>
+    <company>
+        <name>Capital One Financial Corp.</name>
+    </company>
+    <company>
+        <name>Cardinal Health Inc.</name>
+    </company>
+    <company>
+        <name>Caremark Rx Inc.</name>
+    </company>
+    <company>
+        <name>Carlisle Cos. Inc.</name>
+    </company>
+    <company>
+        <name>Carpenter Technology Corp.</name>
+    </company>
+    <company>
+        <name>Casey's General Stores Inc.</name>
+    </company>
+    <company>
+        <name>Caterpillar Inc.</name>
+    </company>
+    <company>
+        <name>CBRL Group Inc.</name>
+    </company>
+    <company>
+        <name>CDI Corp.</name>
+    </company>
+    <company>
+        <name>CDW Computer Centers Inc.</name>
+    </company>
+    <company>
+        <name>CellStar Corp.</name>
+    </company>
+    <company>
+        <name>Cendant Corp</name>
+    </company>
+    <company>
+        <name>Cenex Harvest States Cooperatives</name>
+    </company>
+    <company>
+        <name>Centex Corp.</name>
+    </company>
+    <company>
+        <name>CenturyTel Inc.</name>
+    </company>
+    <company>
+        <name>Ceridian Corp.</name>
+    </company>
+    <company>
+        <name>CH2M Hill Cos. Ltd.</name>
+    </company>
+    <company>
+        <name>Champion Enterprises Inc.</name>
+    </company>
+    <company>
+        <name>Charles Schwab Corp.</name>
+    </company>
+    <company>
+        <name>Charming Shoppes Inc.</name>
+    </company>
+    <company>
+        <name>Charter Communications Inc.</name>
+    </company>
+    <company>
+        <name>Charter One Financial Inc.</name>
+    </company>
+    <company>
+        <name>ChevronTexaco Corp.</name>
+    </company>
+    <company>
+        <name>Chiquita Brands International Inc.</name>
+    </company>
+    <company>
+        <name>Chubb Corp</name>
+    </company>
+    <company>
+        <name>Ciena Corp.</name>
+    </company>
+    <company>
+        <name>Cigna Corp</name>
+    </company>
+    <company>
+        <name>Cincinnati Financial Corp.</name>
+    </company>
+    <company>
+        <name>Cinergy Corp.</name>
+    </company>
+    <company>
+        <name>Cintas Corp.</name>
+    </company>
+    <company>
+        <name>Circuit City Stores Inc.</name>
+    </company>
+    <company>
+        <name>Cisco Systems Inc.</name>
+    </company>
+    <company>
+        <name>Citigroup, Inc</name>
+    </company>
+    <company>
+        <name>Citizens Communications Co.</name>
+    </company>
+    <company>
+        <name>CKE Restaurants Inc.</name>
+    </company>
+    <company>
+        <name>Clear Channel Communications Inc.</name>
+    </company>
+    <company>
+        <name>The Clorox Co.</name>
+    </company>
+    <company>
+        <name>CMGI Inc.</name>
+    </company>
+    <company>
+        <name>CMS Energy Corp.</name>
+    </company>
+    <company>
+        <name>CNF Inc.</name>
+    </company>
+    <company>
+        <name>Coca-Cola Co.</name>
+    </company>
+    <company>
+        <name>Coca-Cola Enterprises Inc.</name>
+    </company>
+    <company>
+        <name>Colgate-Palmolive Co.</name>
+    </company>
+    <company>
+        <name>Collins & Aikman Corp.</name>
+    </company>
+    <company>
+        <name>Comcast Corp.</name>
+    </company>
+    <company>
+        <name>Comdisco Inc.</name>
+    </company>
+    <company>
+        <name>Comerica Inc.</name>
+    </company>
+    <company>
+        <name>Comfort Systems USA Inc.</name>
+    </company>
+    <company>
+        <name>Commercial Metals Co.</name>
+    </company>
+    <company>
+        <name>Community Health Systems Inc.</name>
+    </company>
+    <company>
+        <name>Compass Bancshares Inc</name>
+    </company>
+    <company>
+        <name>Computer Associates International Inc.</name>
+    </company>
+    <company>
+        <name>Computer Sciences Corp.</name>
+    </company>
+    <company>
+        <name>Compuware Corp.</name>
+    </company>
+    <company>
+        <name>Comverse Technology Inc.</name>
+    </company>
+    <company>
+        <name>ConAgra Foods Inc.</name>
+    </company>
+    <company>
+        <name>Concord EFS Inc.</name>
+    </company>
+    <company>
+        <name>Conectiv, Inc</name>
+    </company>
+    <company>
+        <name>Conoco Inc</name>
+    </company>
+    <company>
+        <name>Conseco Inc.</name>
+    </company>
+    <company>
+        <name>Consolidated Freightways Corp.</name>
+    </company>
+    <company>
+        <name>Consolidated Edison Inc.</name>
+    </company>
+    <company>
+        <name>Constellation Brands Inc.</name>
+    </company>
+    <company>
+        <name>Constellation Emergy Group Inc.</name>
+    </company>
+    <company>
+        <name>Continental Airlines Inc.</name>
+    </company>
+    <company>
+        <name>Convergys Corp.</name>
+    </company>
+    <company>
+        <name>Cooper Cameron Corp.</name>
+    </company>
+    <company>
+        <name>Cooper Industries Ltd.</name>
+    </company>
+    <company>
+        <name>Cooper Tire & Rubber Co.</name>
+    </company>
+    <company>
+        <name>Corn Products International Inc.</name>
+    </company>
+    <company>
+        <name>Corning Inc.</name>
+    </company>
+    <company>
+        <name>Costco Wholesale Corp.</name>
+    </company>
+    <company>
+        <name>Countrywide Credit Industries Inc.</name>
+    </company>
+    <company>
+        <name>Coventry Health Care Inc.</name>
+    </company>
+    <company>
+        <name>Cox Communications Inc.</name>
+    </company>
+    <company>
+        <name>Crane Co.</name>
+    </company>
+    <company>
+        <name>Crompton Corp.</name>
+    </company>
+    <company>
+        <name>Crown Cork & Seal Co. Inc.</name>
+    </company>
+    <company>
+        <name>CSK Auto Corp.</name>
+    </company>
+    <company>
+        <name>CSX Corp.</name>
+    </company>
+    <company>
+        <name>Cummins Inc.</name>
+    </company>
+    <company>
+        <name>CVS Corp.</name>
+    </company>
+    <company>
+        <name>Cytec Industries Inc.</name>
+    </company>
+    <company>
+        <name>D&K Healthcare Resources, Inc.</name>
+    </company>
+    <company>
+        <name>D.R. Horton Inc.</name>
+    </company>
+    <company>
+        <name>Dana Corporation</name>
+    </company>
+    <company>
+        <name>Danaher Corporation</name>
+    </company>
+    <company>
+        <name>Darden Restaurants Inc.</name>
+    </company>
+    <company>
+        <name>DaVita Inc.</name>
+    </company>
+    <company>
+        <name>Dean Foods Company</name>
+    </company>
+    <company>
+        <name>Deere & Company</name>
+    </company>
+    <company>
+        <name>Del Monte Foods Co</name>
+    </company>
+    <company>
+        <name>Dell Computer Corporation</name>
+    </company>
+    <company>
+        <name>Delphi Corp.</name>
+    </company>
+    <company>
+        <name>Delta Air Lines Inc.</name>
+    </company>
+    <company>
+        <name>Deluxe Corporation</name>
+    </company>
+    <company>
+        <name>Devon Energy Corporation</name>
+    </company>
+    <company>
+        <name>Di Giorgio Corporation</name>
+    </company>
+    <company>
+        <name>Dial Corporation</name>
+    </company>
+    <company>
+        <name>Diebold Incorporated</name>
+    </company>
+    <company>
+        <name>Dillard's Inc.</name>
+    </company>
+    <company>
+        <name>DIMON Incorporated</name>
+    </company>
+    <company>
+        <name>Dole Food Company, Inc.</name>
+    </company>
+    <company>
+        <name>Dollar General Corporation</name>
+    </company>
+    <company>
+        <name>Dollar Tree Stores, Inc.</name>
+    </company>
+    <company>
+        <name>Dominion Resources, Inc.</name>
+    </company>
+    <company>
+        <name>Domino's Pizza LLC</name>
+    </company>
+    <company>
+        <name>Dover Corporation, Inc.</name>
+    </company>
+    <company>
+        <name>Dow Chemical Company</name>
+    </company>
+    <company>
+        <name>Dow Jones & Company, Inc.</name>
+    </company>
+    <company>
+        <name>DPL Inc.</name>
+    </company>
+    <company>
+        <name>DQE Inc.</name>
+    </company>
+    <company>
+        <name>Dreyer's Grand Ice Cream, Inc.</name>
+    </company>
+    <company>
+        <name>DST Systems, Inc.</name>
+    </company>
+    <company>
+        <name>DTE Energy Co.</name>
+    </company>
+    <company>
+        <name>E.I. Du Pont de Nemours and Company</name>
+    </company>
+    <company>
+        <name>Duke Energy Corp</name>
+    </company>
+    <company>
+        <name>Dun & Bradstreet Inc.</name>
+    </company>
+    <company>
+        <name>DURA Automotive Systems Inc.</name>
+    </company>
+    <company>
+        <name>DynCorp</name>
+    </company>
+    <company>
+        <name>Dynegy Inc.</name>
+    </company>
+    <company>
+        <name>E*Trade Group, Inc.</name>
+    </company>
+    <company>
+        <name>E.W. Scripps Company</name>
+    </company>
+    <company>
+        <name>Earthlink, Inc.</name>
+    </company>
+    <company>
+        <name>Eastman Chemical Company</name>
+    </company>
+    <company>
+        <name>Eastman Kodak Company</name>
+    </company>
+    <company>
+        <name>Eaton Corporation</name>
+    </company>
+    <company>
+        <name>Echostar Communications Corporation</name>
+    </company>
+    <company>
+        <name>Ecolab Inc.</name>
+    </company>
+    <company>
+        <name>Edison International</name>
+    </company>
+    <company>
+        <name>EGL Inc.</name>
+    </company>
+    <company>
+        <name>El Paso Corporation</name>
+    </company>
+    <company>
+        <name>Electronic Arts Inc.</name>
+    </company>
+    <company>
+        <name>Electronic Data Systems Corp.</name>
+    </company>
+    <company>
+        <name>Eli Lilly and Company</name>
+    </company>
+    <company>
+        <name>EMC Corporation</name>
+    </company>
+    <company>
+        <name>Emcor Group Inc.</name>
+    </company>
+    <company>
+        <name>Emerson Electric Co.</name>
+    </company>
+    <company>
+        <name>Encompass Services Corporation</name>
+    </company>
+    <company>
+        <name>Energizer Holdings Inc.</name>
+    </company>
+    <company>
+        <name>Energy East Corporation</name>
+    </company>
+    <company>
+        <name>Engelhard Corporation</name>
+    </company>
+    <company>
+        <name>Enron Corp.</name>
+    </company>
+    <company>
+        <name>Telecom</name>
+    </company>
+</companies>

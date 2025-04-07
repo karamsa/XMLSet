@@ -1,0 +1,152 @@
+<calls>
+   <call>
+      <callee_id>+48 195 624 2025</callee_id>
+      <caller_id>+54 398 559 0423</caller_id>
+      <duration>122</duration>
+      <started_at>2018-09-16T22:24:19</started_at>
+   </call>
+   <call>
+      <callee_id>+48 195 624 2025</callee_id>
+      <caller_id>+263 498 495 0617</caller_id>
+      <duration>514</duration>
+      <started_at>2018-09-18T01:34:48</started_at>
+   </call>
+   <call>
+      <callee_id>+33 614 339 0298</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>120</duration>
+      <started_at>2018-09-21T20:21:17</started_at>
+   </call>
+   <call>
+      <callee_id>+33 614 339 0298</callee_id>
+      <caller_id>+263 498 495 0617</caller_id>
+      <duration>144</duration>
+      <started_at>2018-09-17T22:10:34</started_at>
+   </call>
+   <call>
+      <callee_id>+7 552 196 4096</callee_id>
+      <caller_id>+54 398 559 0423</caller_id>
+      <duration>556</duration>
+      <started_at>2018-09-25T20:24:59</started_at>
+   </call>
+   <call>
+      <callee_id>+351 515 605 7915</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>336</duration>
+      <started_at>2018-09-23T22:23:25</started_at>
+   </call>
+   <call>
+      <callee_id>+351 272 414 6570</callee_id>
+      <caller_id>+261 860 539 4754</caller_id>
+      <duration>405</duration>
+      <started_at>2018-09-26T05:34:19</started_at>
+   </call>
+   <call>
+      <callee_id>+263 498 495 0617</callee_id>
+      <caller_id>+62 107 530 7500</caller_id>
+      <duration>5665</duration>
+      <started_at>2018-09-25T22:58:02</started_at>
+   </call>
+   <call>
+      <callee_id>+86 892 682 0628</callee_id>
+      <caller_id>+54 398 559 0423</caller_id>
+      <duration>822</duration>
+      <started_at>2018-09-23T08:55:18</started_at>
+   </call>
+   <call>
+      <callee_id>+54 398 559 0423</callee_id>
+      <caller_id>+7 690 597 4443</caller_id>
+      <duration>8494</duration>
+      <started_at>2018-09-25T09:10:25</started_at>
+   </call>
+   <call>
+      <callee_id>+7 414 625 3019</callee_id>
+      <caller_id>+263 498 495 0617</caller_id>
+      <duration>12</duration>
+      <started_at>2018-09-19T20:31:39</started_at>
+   </call>
+   <call>
+      <callee_id>+57 629 420 5680</callee_id>
+      <caller_id>+7 171 898 0853</caller_id>
+      <duration>29</duration>
+      <started_at>2018-09-17T10:47:21</started_at>
+   </call>
+   <call>
+      <callee_id>+261 860 539 4754</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>2851</duration>
+      <started_at>2018-09-25T06:21:55</started_at>
+   </call>
+   <call>
+      <callee_id>+48 195 624 2025</callee_id>
+      <caller_id>+263 498 495 0617</caller_id>
+      <duration>573</duration>
+      <started_at>2018-09-26T03:37:06</started_at>
+   </call>
+   <call>
+      <callee_id>+1 254 875 4647</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>66</duration>
+      <started_at>2018-09-19T08:19:36</started_at>
+   </call>
+   <call>
+      <callee_id>+63 815 962 6097</callee_id>
+      <caller_id>+370 351 224 5176</caller_id>
+      <duration>3682</duration>
+      <started_at>2018-09-25T19:44:03</started_at>
+   </call>
+   <call>
+      <callee_id>+351 515 605 7915</callee_id>
+      <caller_id>+81 746 154 2598</caller_id>
+      <duration>32</duration>
+      <started_at>2018-09-20T13:27:42</started_at>
+   </call>
+   <call>
+      <callee_id>+86 921 547 9004</callee_id>
+      <caller_id>+370 351 224 5176</caller_id>
+      <duration>1434</duration>
+      <started_at>2018-09-20T00:56:31</started_at>
+   </call>
+   <call>
+      <callee_id>+7 414 625 3019</callee_id>
+      <caller_id>+81 746 154 2598</caller_id>
+      <duration>166</duration>
+      <started_at>2018-09-18T18:47:17</started_at>
+   </call>
+   <call>
+      <callee_id>+86 202 257 8619</callee_id>
+      <caller_id>+62 107 530 7500</caller_id>
+      <duration>112</duration>
+      <started_at>2018-09-22T17:27:52</started_at>
+   </call>
+   <call>
+      <callee_id>+351 515 605 7915</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>1142</duration>
+      <started_at>2018-09-16T03:38:09</started_at>
+   </call>
+   <call>
+      <callee_id>+86 202 257 8619</callee_id>
+      <caller_id>+7 171 898 0853</caller_id>
+      <duration>1665</duration>
+      <started_at>2018-09-23T14:57:25</started_at>
+   </call>
+   <call>
+      <callee_id>+86 922 760 0418</callee_id>
+      <caller_id>+81 308 988 7153</caller_id>
+      <duration>365</duration>
+      <started_at>2018-09-27T05:08:53</started_at>
+   </call>
+   <call>
+      <callee_id>+36 318 105 5629</callee_id>
+      <caller_id>+263 498 495 0617</caller_id>
+      <duration>96</duration>
+      <started_at>2018-09-16T01:44:31</started_at>
+   </call>
+   <call>
+      <callee_id>+63 808 497 1769</callee_id>
+      <caller_id>+7 690 597 4443</caller_id>
+      <duration>766</duration>
+      <started_at>2018-09-20T12:27:48</started_at>
+   </call>
+</calls>
