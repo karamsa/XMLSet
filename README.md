@@ -19,6 +19,7 @@ Thank you
 - Few xml databases have been converted from xml sheets in order to leverage our dataset with data from real word.
 - Some xml databases contain more than one root
 - In our model XPathia not all queries return results as we want to create an independent querstion answer generator.
+- Some of the sources below might be moved or removed by the owner. All the files have been collected between April 2022 and September 2022
 
 | Index | Name | Source |
 | :---: | :---: | :---: |
